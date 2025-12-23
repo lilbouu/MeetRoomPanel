@@ -1,0 +1,17 @@
+{
+  "codename": "French30",
+  "ttf_path": "/assets/OpenSans-VariableFont_wdth,wght.ttf",
+  "bin_path": "/assets/ui_font_French30.bin",
+  "c_path": "/assets/ui_font_French30.c",
+  "cfg_path": "/assets/ui_font_French30.fcfg",
+  "size": 30,
+  "bpp": 4,
+  "letters": 0,
+  "ranges": [
+    "0x20-0x7F",
+    "0xA0-0xFF"
+  ],
+  "symbols": "",
+  "customparams": "--no-compress --no-prefilter",
+  "uploaded": false
+}
